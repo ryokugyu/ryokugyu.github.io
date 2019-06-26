@@ -1,2 +1,1 @@
-# ryokugyu.giyhub.io
-personal website
+# ryokugyu.github.io
