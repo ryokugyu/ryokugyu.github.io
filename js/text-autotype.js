@@ -1,6 +1,6 @@
 var i = 1;
 var j= -1;
-var list = ['Postgrad @ JIIT Noida | Major in Data Analytics'];
+var list = ['Intern @ Cognizant|Postgrad in Data Analytics @ JIIT Noida'];
 var a=list[0];
 var len = list.length;
 var num = 0;
